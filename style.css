@@ -1,0 +1,58 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.protest-strike-regular {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/image/pexels-diyar-shahbaz-17764453.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.mainYazi{
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style:  normal;
+    letter-spacing: 35px;
+}
+
+
+.SecondMain{
+    min-height: 100vh;
+    background-image: url(/image/pexels-mahmoud-atashi-17104400.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.secondMainText{
+    letter-spacing: 20px;
+}
+
+.thirdMain{
+    min-height: 100vh;
+    background-image: url(/image/pexels-mahmoud-atashi-17104400.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.fourPageMain{
+    min-height: 100vh;
+    background-image: url(/image/pexels-mahmoud-atashi-17104400.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.fourBackground{
+    background-color: rgba(102, 107, 98, 0.7);
+}
+
+.lastPage{
+    min-height: 100vh;
+    
+}
